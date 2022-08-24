@@ -37,7 +37,7 @@ This is a productivity meeting website that uses the agora SDK with DjangoREST a
 # Difficulties we Faced
 ---
 Here are some of the difficulties me and my team faced in this project:
-- Frontend: our frontend developer had issues with dynamically rendering react components, he said creating reusable components and keeping track of state gave him                 quite a bit of a headache for some time.
-- Design:
-- Backend: At the backend the major issue i faced was understanding and mapping out the api endpoints my front end developer needs and making sure it delivers an                  accurate and easy to understand response whilst making sure we made the least amount of api calls to the backend as we can
-- Integrating the Agora SDK: Integrating agora to our project at first was a bit of a pain because even though the documentations convers most stuff installing the sdk                              wasnt really covered directly it just assumed peope know how to install it so it just made us download zip files containing it, and the                                tutorials they have arent working because some of their modules are depreciated so it was basically useless apart for making references
+- **Frontend**: our frontend developer had issues with dynamically rendering react components, he said creating reusable components and keeping track of state gave him                 quite a bit of a headache for some time.
+- **Design**:
+- **Backend**: At the backend the major issue i faced was understanding and mapping out the api endpoints my front end developer needs and making sure it delivers an                  accurate and easy to understand response whilst making sure we made the least amount of api calls to the backend as we can
+-** Integrating the Agora SDK**: Integrating agora to our project at first was a bit of a pain because even though the documentations covers most stuff, installing                                    the sdk wasnt really covered directly it just assumed people know how to install it so it just made us download zip files containing                                    it, and the tutorials they have arent working because some of their modules are depreciated so it was basically useless apart for                                      making references.
