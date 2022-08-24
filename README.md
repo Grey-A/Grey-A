@@ -23,15 +23,15 @@ This is a productivity meeting website that uses the agora SDK with DjangoREST a
 
 # Resources Used
 ---
-..* Figma:
+- Figma:
       We used this to make our mockup design with the low and high fidelity mockups and a case study, [Here is a link to view it](# "Meetra Figma Design")
-..* React.js:
+- React.js:
       We used this as our Frontend framework.
-..* DjangoREST Framework:
+- DjangoREST Framework:
       We used this as our backend API with an SQLite3 Database to support it
-..* Lucid Charts:
+- Lucid Charts:
       We used this to make a visualization on how our Databases relate with each other, [Here is a link to view it](# "Meetra Lucid Chart")
-..* PostMan:
+- PostMan:
       We used this to test our Backend API, [Here is a link to the Postman website](https://www.postman.com/ "Postman Website")
 
 # Difficulties we Faced
